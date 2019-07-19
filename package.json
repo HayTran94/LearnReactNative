@@ -8,12 +8,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
     "opentok-react-native": "^0.11.2",
     "react": "16.8.6",
     "react-apollo": "^2.5.8",
     "react-native": "0.60.3",
     "react-native-gesture-handler": "^1.3.0",
-    "react-navigation": "^3.11.1"
+    "react-navigation": "^3.11.1",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4"
   },
   "devDependencies": {
     "@babel/core": "7.5.4",
