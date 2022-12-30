@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "opentok-react-native": "^0.11.2",
     "react": "16.8.6",
     "react-apollo": "^2.5.8",
